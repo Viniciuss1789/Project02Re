@@ -1,5 +1,5 @@
 import './App.css'
-import RelogioDigital from './assets/components/RelogioDigital'
+import RelogioDigital from './components/RelogioDigital'
 
 function App() {
   return (
